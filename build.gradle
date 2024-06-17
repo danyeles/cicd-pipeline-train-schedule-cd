@@ -6,7 +6,7 @@ plugins {
 node {
 	//distBaseUrl = 'https://direct.nodejs.org/dist/'
 	download = true
-	version = '20.14.0'
+	version = '22.3.0'
 	npmVersion = "10.8.1"	
 }
 
