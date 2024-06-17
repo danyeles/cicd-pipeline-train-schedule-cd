@@ -6,8 +6,8 @@ plugins {
 node {
 	//distBaseUrl = 'https://direct.nodejs.org/dist/'
 	download = true
-	version = '22.3.0'
-	npmVersion = "10.8.1"	
+	version = '20.14.0'
+	npmVersion = "10.7.0"	
 }
 
 //declare a build task
